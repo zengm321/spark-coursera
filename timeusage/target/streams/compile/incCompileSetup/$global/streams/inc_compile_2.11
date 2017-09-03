@@ -1,0 +1,398 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+29 items
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$11.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$12.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$6.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8$$anonfun$apply$2.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9$$anonfun$apply$3.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$dfSchema$1.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class
+binary dependencies:
+6 items
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+29 items
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$10
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$11
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$12
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$5
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$6
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$7
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8$$anonfun$apply$2
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9$$anonfun$apply$3
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$dfSchema$1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$3
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$4
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$5
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator2$1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow$
+used names:
+226 items
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m$untyped
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator2
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator3
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $u
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> &&
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> *
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> +
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ::
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <=
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <init>
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ==
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ===
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> >=
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AbstractFunction6
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AnyRef
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Array
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassTag
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Column
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataFrame
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Dataset
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Double
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DoubleType
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> IndexedSeq
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Int
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> List
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Map
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Mirror
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nil
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> None
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nothing
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Option
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Ordering
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Paths
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Predef
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Product
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Row
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ScalaRunTime
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Serializable
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SingleType
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Singleton
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkSession
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Statics
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> String
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringContext
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringType
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructType
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Symbol
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ThisType
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsage
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsageRow
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple2
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple3
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Type
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeCreator
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeRef
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeTag
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Unit
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Universe
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _2
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _3
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _4
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _toString
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> acc
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> age
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ageProjection
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> agg
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> anyHash
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apache
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> appName
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apply
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> as
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asInstanceOf
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asModule
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asType
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> augmentString
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> avg
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> between
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> builder
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> canBuildFrom
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> categoryMappings
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> classifiedColumns
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> collection
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columnNames
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columns
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> config
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createDataFrame
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createOrReplaceTempView
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> d
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> data
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dataFrame
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> df
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dfSchema
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> divide
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleHash
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleWrapper
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> drop
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> empty
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> eq
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> exists
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> expressions
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> file
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalDf
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalizeHash
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> first
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> flatMap
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> foldLeft
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fsPath
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> functions
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> get
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClass
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClassLoader
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrCreate
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrElse
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getResource
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupBy
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupByKey
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groups
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> head
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headOption
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headerColumns
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> i
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> immutable
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> implicits
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> index
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> initDf
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> intWrapper
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> internal
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> isInstanceOf
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> it
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> java
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> line
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> map
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapPartitionsWithIndex
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapValues
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeClassTag
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeTypeTag
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> math
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mix
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> moduleClass
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> name
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ne
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> newProductEncoder
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> nio
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> option2Iterable
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> orderBy
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> org
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> other
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherColumns
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherProjection
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherwise
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> package
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> prefixes
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeeds
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsColumns
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsProjection
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> rdd
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> read
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reduce
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> refArrayOps
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reflect
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reificationSupport
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> resource
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> results
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round1
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> row
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtime
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtimeMirror
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> s
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scala
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scalalang
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> schema
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> select
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> selectType
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sex
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sexProjection
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> show
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sortBy
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> spark
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sparkContext
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> split
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sql
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> startsWith
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticClass
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticModule
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticPackage
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summaryDf
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summed
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> symbolToColumn
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tail
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> textFile
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageByLifePeriod
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGrouped
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGroupedSqlQuery
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummary
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummaryDf
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> to
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toDouble
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toString
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toTypeConstructor
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toURI
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tuple
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typed
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typedProductIterator
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> types
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> unchecked
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> universe
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> viewName
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> when
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> where
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> work
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workColumns
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workProjection
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> working
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingStatusProjection
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> zipWithIndex
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ||
+product stamps:
+29 items
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$11.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$12.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$6.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8$$anonfun$apply$2.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9$$anonfun$apply$3.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$dfSchema$1.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class -> lastModified(1491371239000)
+/Users/mengzeng/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class -> lastModified(1491371239000)
+source stamps:
+1 items
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> hash(5482eccbde157fc34b25799ee0e38d24466ade9b)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1475301657000)
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar -> lastModified(1457105200000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.DoubleType$
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.RDD
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.KeyValueGroupedDataset
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar -> scala.runtime.AbstractFunction6
+/Users/mengzeng/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAOdxRYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCmUd/R0AAZub3RpZnlzcQB+AAwlVS6ndAAEcmVhZHNxAH4ADI6Bp6J0AAd3b3JraW5nc3EAfgAMHr2loHQABHdhaXRzcQB+AAyzoejfdAAOY29weSRkZWZhdWx0JDJzcQB+AAxghNBLdAANJGFzSW5zdGFuY2VPZnNxAH4ADNvIWeh0ABV0aW1lVXNhZ2VHcm91cGVkVHlwZWRzcQB+AAwH6uMwdAAOY29weSRkZWZhdWx0JDVzcQB+AAyTvdiEdAAMVGltZVVzYWdlUm93c3EAfgAM488LynQADHByb2R1Y3RBcml0eXNxAH4ADKUZvu10AAZlcXVhbHNzcQB+AAwPuuCNdAAJVGltZVVzYWdlc3EAfgAMzwVijHQADGFzSW5zdGFuY2VPZnNxAH4ADMjO/KB0ABN0aW1lVXNhZ2VHcm91cGVkU3Fsc3EAfgAMZbYy1XQADHN5bmNocm9uaXplZHNxAH4ADFbWEcx0AA0kaXNJbnN0YW5jZU9mc3EAfgAMIPa6/nQABmZzUGF0aHNxAH4ADB3Zf/x0AAhjYW5FcXVhbHNxAH4ADAPBpdN0ABB0aW1lVXNhZ2VTdW1tYXJ5c3EAfgAMN+ghWHQAA3Jvd3NxAH4ADJDLa/x0ABFjbGFzc2lmaWVkQ29sdW1uc3NxAH4ADJAGzAZ0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADOjUbQB0AARtYWluc3EAfgAMp9BW7nQADXByb2R1Y3RQcmVmaXhzcQB+AAw54GjedAADYWdlc3EAfgAM+6WzxnQABHdvcmtzcQB+AAwVhJrudAAJbm90aWZ5QWxsc3EAfgAM9CWMTXQAFXRpbWVVc2FnZUJ5TGlmZVBlcmlvZHNxAH4ADDMxFVF0ABB0aW1lVXNhZ2VHcm91cGVkc3EAfgAMfYre7XQAA3NleHNxAH4ADKspfq10AAxpc0luc3RhbmNlT2ZzcQB+AAzuHGvUdAAGPGluaXQ+c3EAfgAMgP9DX3QABXNwYXJrc3EAfgAM5Z8rlHQAAj09c3EAfgAMOuWC2nQABWNsb25lc3EAfgAMWCW6XXQAGHRpbWVVc2FnZUdyb3VwZWRTcWxRdWVyeXNxAH4ADHAlfdp0AAhkZlNjaGVtYXNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ag3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCceHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCbAHBzcQB+AKBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ag0wACWluaGVyaXRlZHEAfgCDTAAHcGFyZW50c3EAfgCDeHEAfgCkc3EAfgCbAHBzcQB+AKB1cQB+AH4AAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AIRxAH4AjXVxAH4AjgAAAABzcQB+AJAAcQB+ADt1cQB+AJMAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ao3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB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
+external apis:
+0 items
+source infos:
+1 items
+/Users/mengzeng/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWzynFkF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9tZW5nemVuZy9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
